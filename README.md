@@ -45,7 +45,7 @@ ___
 
 ![image](https://g.csdnimg.cn/side-toolbar/3.0/images/qr_wechat.png "这是csdn图片")
 
-![imagr](C:\Users\BR\Desktop\桌面图片\cats.jpg)
+![image](C:\Users\BR\Desktop\桌面图片\cats.jpg)
 
 
 <!-- github -->
